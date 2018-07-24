@@ -1,0 +1,13 @@
+{
+  "name": "musician-website",
+  "version": "1.0.0",
+  "description": "Weather API",
+  "author": "Shineka Barnett",
+  "homepage": "https://github.com/ShinekaBarnett/weather-api.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
